@@ -15,7 +15,7 @@ Welcome to my Github. There are some things i will usually upload to here:
 - Currently living in Madrid, Spain.
 - Experiencia: Sí.
 - Social Medias: 
-    - [Twitter](https://twitter.com/kassimi_salim) 🦤
+    - [Twitter](https://twitter.com/kassimi_salim)
     - [Instagram](https://www.instagram.com/kassimi_salim/) 📸
     - [Soundcloud](https://soundcloud.com/808rife) 🎛 ️
     - [LinkedIn](https://www.linkedin.com/in/salim-ahouch-el-kassimi-b827a41b3/) 🧑‍💼
