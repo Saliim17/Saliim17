@@ -3,12 +3,15 @@
 
 
 
-Welcome to my Github. There are some things i will usually upload to here:
+Welcome to my Github. There are some things I will usually upload to here:
 
 - Simple programming works (C, Java, Python, HTML, CSS, JavaScript) 📚
 - Various projects 🧑🏾‍💻
+    - API Dimension 2022
+    - Discord Music Bot
+    - Telegram Bot 
 - Pentesting/Hacking/[HackTheBox](https://www.hackthebox.eu/)
-- Works/Challengers of [Core Dumped](https://coredumped.es/)  💻
+- Works/Challenges of [Core Dumped](https://coredumped.es/)  💻
 
 ## About me
 
