@@ -5,21 +5,21 @@
 
 Welcome to my Github. There are some things I will usually upload to here:
 
-- Simple programming works (C, Java, Python, HTML, CSS, JavaScript) 📚
+- Simple programming works (Dart, C, Java, Python) 📚
 - Various projects 🧑🏾‍💻
-    - API Dimension 2022
-    - Discord Core
-    - Telegram Bot 
+    - Core Dumped APP (Flutter)
+    - Lottery WEB (Flutter)
+    - Twitter BOT
 - Pentesting/Hacking/[HackTheBox](https://www.hackthebox.eu/)
 - Works/Challenges of [Core Dumped](https://coredumped.es/)  💻
 
 ## About me
 
 - Currently living in Madrid, Spain.
-- Experiencia: Sí.
+- Experiencia: 8 months as Flutter Developer (proffesionally) and 3 years working in personal proyects also in Flutter.
 - Social Medias: 
-    - [Twitter](https://twitter.com/kassimi_salim)
-    - [Instagram](https://www.instagram.com/kassimi_salim/) 📸
+    - [Twitter](https://twitter.com/S4l1m_DEV)
+    - [Instagram](https://www.instagram.com/saaliim_17) 📸
     - [Soundcloud](https://soundcloud.com/808rife) 🎛 ️
     - [LinkedIn](https://www.linkedin.com/in/salim-ahouch-el-kassimi-b827a41b3/) 🧑‍💼
 - Website: [https://saliim17.github.io/](https://saliim17.github.io/) 
