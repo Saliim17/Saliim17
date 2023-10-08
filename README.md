@@ -9,9 +9,7 @@ Welcome to my Github. There are some things I will usually upload to here:
 - Various projects 🧑🏾‍💻
     - Core Dumped APP (Flutter)
     - Lottery WEB (Flutter)
-    - Twitter BOT
-- Pentesting/Hacking/[HackTheBox](https://www.hackthebox.eu/)
-- Works/Challenges of [Core Dumped](https://coredumped.es/)  💻
+    - Apptonomia Sirio (Flutter)
 
 ## About me
 
